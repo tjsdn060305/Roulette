@@ -107,3 +107,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+# Nested Unity Project
+/Roulette/[Ll]ibrary/
+/Roulette/[Tt]emp/
+/Roulette/[Oo]bj/
+/Roulette/[Ll]ogs/
+/Roulette/[Uu]ser[Ss]ettings/
+/Roulette/[Bb]uild/
+/Roulette/[Bb]uilds/
